@@ -7,13 +7,13 @@ My name is Gustavo Lopes, the founder of GuaraProductions, and welcome to my gro
 As stated in the group's description, the purpose of 'GuaraProductions' is to publish games and related technologies,
 made by... you guessed it, me :P
 
-Yes, this is a 'one man company' so to speak. I don't actually plan on hiring, or inviting other people to this group,
+Yes, this is a 'one man company' so to speak. I don't actually plan on hiring, or inviting other people into to this group,
 because the projects here are meant to be my personal collection of things that I worked and that is related to videogames.
 
 Since I was a kid, I loved videogames and always wanted to learn more about what it goes to making games, and if I would 
 be able to publish a complete video game one day.
 
-Right now, all of the projects you are currently seeing right now are prototypes, they are all imcomplete in some way
+Right now, all of the projects you are currently seeing are prototypes, they are all imcomplete in some way
 (probably even buggy), but I pretend in the near future, make some changes to this projects, in order to make them more 
 polished.
 
