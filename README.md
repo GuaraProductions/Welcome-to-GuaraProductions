@@ -11,14 +11,14 @@ Yes, this is a 'one man company' so to speak. I don't actually plan on hiring, o
 because the projects here are meant to be my personal collection of things that I worked and that is related to videogames.
 
 Since I was a kid, I loved videogames and always wanted to learn more about what it goes to making games, and if I would 
-be able to publish a complete video game one day.
+be able to publish a full gaming experience someday.
 
-Right now, all of the projects you are currently seeing are prototypes, they are all imcomplete in some way
-(probably even buggy), but I pretend in the near future, make some changes to this projects, in order to make them more 
-polished.
+Right now, all of the projects you are currently seeing are prototypes, they are all incomplete in some way
+(probably even buggy), but I pretend in the near future, in the next 3 to 5 years, make a game of my own, and publish on 
+Gamejolt(or even Steam... who knows).
 
-I can't promise you this... since I have bigger and more ... let's just say.. ambitious projects on my mind.. but I 
-should definitely start making some plans and organize the things that I want to acomplish here.
+I can't tell if this is going to be a success or not, but what I do know, is that I am going to make this dream a reality,
+and hope I can one day share this to you. 
 
 And... yeah, that's about it
 
